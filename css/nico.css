@@ -1,0 +1,73 @@
+.block{
+  display: block;
+}
+
+.flex{
+  display: flex;
+}
+
+.flex-center{
+  display: flex;
+  justify-content: center;
+}
+
+.flex-center-wrap{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.logo{
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+}
+
+.logo-school{
+  height: auto;
+  width: auto;
+  margin-right: 10px;
+}
+
+.left-block{
+  width: 50%;
+}
+
+.right-block{
+  width: 50%;
+}
+
+.list-school{
+  font-size:0.85rem;
+  text-align: left;
+}
+
+#IT-block{
+  padding: 6em inherit;
+}
+
+#mySelfie{
+  width: 300px;
+  height: inherit;
+  margin-right: 20px;
+}
+
+#parcours-title{
+  justify-content: center;
+}
+
+#languages{
+  text-align:center;
+  border:solid 1px white;
+  border-radius:3px;
+  padding:5px;
+  height:inherit;
+  width:inherit;
+  margin-left: 25%
+}
+
+#logo-bba{
+  height: 227px;
+  width: 227px;
+  margin-right: 10px;
+}
